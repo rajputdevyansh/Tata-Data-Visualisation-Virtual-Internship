@@ -1,0 +1,17 @@
+Good Afternoon,
+
+I am Devyansh Rajput, and I am pleased to provide you with some valuable insights about your business today. Your guiding questions were instrumental in shaping the direction of this analysis, and I appreciate your input. I trust that the insights derived from the data will be intriguing and beneficial as you strategize for future business opportunities.
+I want to assure you that the analysis I am presenting is current and free from errors. Upon importing the data into the PowerBI software, I carefully cleaned it by eliminating records with negative quantities and unit prices. I removed these records to ensure the accuracy and relevance of the analysis. Additionally, I excluded data from before 2011 to maintain the focus on recent trends and performance. I hope this analysis will serve as a valuable tool for your strategic planning and making data-driven decisions.
+
+The revenue trend and seasonality in sales based on the requirement of the CEO, my analysis reveals distinct periods of significant growth throughout the year. The data indicates that the revenue remains relatively stable for the initial eight months, with an average revenue generation of around 685 thousand dollars.
+Starting from September, there is a noticeable surge in revenue, marking a 40% increase compared to the preceding month. This upward trend persists until November, when the revenue peaks at 1.51 million dollars, the highest recorded for the year.
+However, the data for December is incomplete, so it is not feasible to draw any conclusions for this month. This analysis underscores the impact of seasonality on retail store sales, particularly evident in the last quarter of the year.
+
+This chart is based on the requirements of the CMO and provides insights into the performance of the top 10 countries with promising growth opportunities. The analysis excludes the United Kingdom, given its already high demand, and instead focuses on countries with the potential to increase demand. The data reveals that countries like the Netherlands, Ireland, Germany, France, and Australia have high purchase volumes and revenue generation. It would be strategic to concentrate efforts on these markets to further capitalize on these opportunities.
+
+Based on the CMO's query, this analysis focuses on the top 10 customers who made the highest purchases from the store. The data shows that the purchases made by these top customers are relatively similar. The customer who generated the highest revenue purchased only 17% more than the second-highest, indicating that the revenue generation is not overly dependent on a few customers suggesting that customers have limited bargaining power.
+
+In response to the CEO's question about where our revenue comes from, our analysis shows that countries such as the Netherlands, Ireland, Germany, France, and Australia are significant contributors to our revenue, in addition to the United Kingdom. We recommend that we invest more in these regions to increase product demand.
+My analysis also shows that most of our sales are in Europe, with little presence in America. We found that regions like Africa, Asia, and Russia currently show very little demand for our products. Therefore, I suggest that we develop a targeted strategy for these untapped markets to enhance our sales revenue and profitability.
+
+Thank you for your time and attention. If you have any questions about the analysis or require additional information. I am here to help.
